@@ -13,4 +13,4 @@ my first repository on github
 ```
 I enjoying being alone 
 ```
-This page was updated on the web.
+This page was Updated on the web.
